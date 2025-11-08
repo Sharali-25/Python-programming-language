@@ -1,9 +1,9 @@
-print("Hello World")
+print("welcome to the world of programming")
 
-print("My name is Sharali")
+print(67)
 
-print("My favourtie game is Roblox")
+print("Hello world \n")
 
-print("Chhole bhature")
+print("Hello", 5)
 
-print("The result of 33+34 is: ", 33+34)
+print("Welcom to", end="*")
