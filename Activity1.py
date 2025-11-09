@@ -1,9 +1,8 @@
-print("welcome to the world of programming")
-
-print(67)
-
-print("Hello world \n")
-
-print("Hello", 5)
-
-print("Welcom to", end="*")
+a=5
+print("type of a :",type(a))
+b=2.5 
+print("type of b :",type(b))
+c="Ankita" 
+print("type of c :",type(c))
+d=True
+print("type of d :",type(d))
